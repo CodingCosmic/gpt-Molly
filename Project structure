@@ -1,0 +1,10 @@
+gpt-Molly/
+│
+├── .devcontainer/
+│   └── devcontainer.json
+├── gptMolly.py
+├── requirements.txt
+├── README.md
+├── train.py
+├── test.py
+└── LICENSE
