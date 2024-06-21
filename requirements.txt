@@ -1,0 +1,7 @@
+tensorflow
+torch
+transformers
+msfrpc
+numpy
+scapy
+python-nmap
